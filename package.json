@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspsk/todoapp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "sotka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sspsk/todoapp/issues"
+  },
+  "homepage": "https://github.com/sspsk/todoapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
